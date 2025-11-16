@@ -4,5 +4,10 @@
     "name": "uMa",
     "email": "ysmst35@gmail.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "go-learning-plugin",
+      "source": "./plugins/go-learning-plugin"
+    }
+  ]
 }
