@@ -1,7 +1,7 @@
 {
   "name": "go-learning-plugin",
   "description": "A plugin to help you learn the Go programming language",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "uMa",
     "email": "ysmst35@gmail.com"
